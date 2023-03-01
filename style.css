@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css?family=Signika+Negative:300,400&display=swap");
+
+body {
+  background-color: #bef0cb;
+}
+.head {
+  text-align: center;
+  background-color: #f5eaea;
+  -webkit-margin-before: 0.5;
+}
+
+.head h1 {
+  font-size: 2cm;
+  font-family: "Signika Negative";
+}
+
+hr {
+  border-style: dotted;
+  border-width: 5px;
+  border-color: grey;
+  border-bottom: 1cm;
+  width: 5%;
+}
+
+.table-1 .label-untouched {
+  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.marquee marquee {
+  text-decoration: blue;
+}
