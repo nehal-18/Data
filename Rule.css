@@ -1,0 +1,28 @@
+catalog {
+	color: white;
+	background-color :#B4E4FF;
+	width: 100%;
+}
+heading {
+	color: #E96479;
+	font-size : 40px;
+	background-color : powderblue;
+}
+heading, EmpID,employee, salary{
+	display : block;
+}
+EmpID{
+	font-size : 25px;
+
+        font-family = serif;
+	font-weight : bold;
+}
+
+EmpID,employee, salary{
+
+text-align : center;
+
+
+}
+
+
