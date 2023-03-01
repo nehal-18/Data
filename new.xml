@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="Rule.css"?>
+<catalog>
+	<heading>employee DATA</heading>
+	<employees>
+		<EmpID>1</EmpID>
+		<employee> Chrisbates</employee>
+		<salary>10</salary>	
+	</employees>
+
+	<employees>
+		<EmpID>2</EmpID>
+		<employee> vijay</employee>
+		<salary>20</salary>
+		
+	</employees>
+
+	<employees>
+		<EmpID>3</EmpID>
+		<employee> Chris</employee>
+		<salary>30</salary>
+		
+	</employees>
+
+	<employees>
+		<EmpID>4</EmpID>
+		<employee>steven</employee>
+		<salary>40</salary>
+		
+	</employees>
+
+	<employees>
+		<EmpID>5</EmpID>
+		<employee>captain america</employee>
+		<salary>50</salary>
+		
+	</employees>
+</catalog>
+
